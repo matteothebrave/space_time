@@ -5,6 +5,7 @@ export default function Home() {
       {/* Blur */}
       <div className="absolute right-0 top-1/2 h-[288px] w-[526px] -translate-y-1/2 translate-x-1/2 rounded-full bg-purple-700 opacity-50 blur-full" />
       {/* Stripes */}
+      <div className="absolute right-0 top-0 bottom-0 w-2 bg-stripes" />
     </div>
 
     {/* Right */}
