@@ -1,6 +1,7 @@
 import { User } from 'lucide-react'
 import nlwLogo from '../assets/nlw-spacetime-logo.svg'
 import Image from 'next/image'
+import Copyright from '@/components/Copyright'
 
 export default function Home() {
   return (
@@ -36,9 +37,7 @@ export default function Home() {
           <a className="inline-block rounded-full bg-green-500 px-5 py-3 text-sm font-alt uppercase leading-none text-black hover:bg-green-600" href="">CADASTRAR LEMBRANÇA</a>
         </div>
         {/* CopyRight */}
-        <div className='text-sm leading-relaxed text-gray-200'>
-          Feito com s2 Por Matheus Grossi
-        </div>
+        <Copyright />
       </div>
       {/* Right */}
       <div className="flex flex-col bg-[url(../assets/bg-stars.svg)] bg-cover p-16">
