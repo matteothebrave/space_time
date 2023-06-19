@@ -3,6 +3,5 @@
 This is a project using next level week idea for a time capsule ⌛ <br>
 <br>
 <br>
-<b>Building it from scratch for a bigger purpose (ask 1 girl to be my valentine) </b>
-<br>
+❌ U N D E R ' D E V E L O P M E N T ❌
 
