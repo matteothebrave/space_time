@@ -1,10 +1,11 @@
 import Image from 'next/image'
 import nlwLogo from '../assets/nlw-spacetime-logo.svg'
+import lhamas from '../assets/lhamas.svg'
 
 export default function Hero() {
     return(
         <div className='space-y-5'>
-          <Image src={nlwLogo} alt="nlw space time" />
+          <Image src={lhamas} alt="nlw space time" />
           <div className='max-w-[420px] space-y-1'>
             <h1 className='text-5xl font-bold leading-tight text-gray-50'>Our time Capsule</h1>
             <p className='text-lg leading-relaxed'>A collection of our best moments and highlights</p>
